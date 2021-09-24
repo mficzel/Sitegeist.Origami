@@ -1,4 +1,4 @@
-# Sitegeist.Origami - Abbandoned 
+# Sitegeist.Origami - Archived 
 
 !!! Asynchronous images make the optimzation via jobqueue obsolete. This package is abandoned in favor of the original MOC.ImageOptimizer !!!  
 
